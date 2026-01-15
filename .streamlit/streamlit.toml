@@ -1,0 +1,4 @@
+[server]
+headless = true
+enableCORS = false
+# port typically left to the host
